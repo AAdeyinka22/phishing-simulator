@@ -44,6 +44,7 @@ Phishing Email
 
 ✔️ Provide defensive strategies
 
+### 🛠️ TOOLS & TECHNOLOGIES
 | Tool             | Purpose                     |
 | ---------------- | --------------------------- |
 | 🐍 ZPhisher      | Phishing automation toolkit |
