@@ -35,9 +35,13 @@ Phishing Email
   🎯 OBJECTIVES
 
 ✔️ Simulate a real-world phishing attack
+
 ✔️ Analyze attacker tools and techniques
+
 ✔️ Map behaviors to MITRE ATT&CK
+
 ✔️ Identify detection gaps
+
 ✔️ Provide defensive strategies
 
 🛠️ TOOLS & TECHNOLOGIES
