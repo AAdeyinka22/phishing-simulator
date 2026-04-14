@@ -44,13 +44,15 @@ Phishing Email
 
 ✔️ Provide defensive strategies
 
-🛠️ TOOLS & TECHNOLOGIES
-Tool	Purpose
-🐍 ZPhisher	Phishing automation toolkit
-🌐 LocalXpose	Tunneling service
-🐧 Kali Linux	Attack environment
-📊 AbuseIPDB	IP reputation analysis
-📧 Email Headers	Forensic investigation
+| Tool             | Purpose                     |
+| ---------------- | --------------------------- |
+| 🐍 ZPhisher      | Phishing automation toolkit |
+| 🌐 LocalXpose    | Tunneling service           |
+| 🐧 Kali Linux    | Attack environment          |
+| 📊 AbuseIPDB     | IP reputation analysis      |
+| 📧 Email Headers | Forensic investigation      |
+
+
 🧪 ATTACK BREAKDOWN
 ⚙️ 1. Tool Initialization
 ZPhisher launched
