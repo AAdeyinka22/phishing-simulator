@@ -12,23 +12,23 @@ Credential harvesting
 Infrastructure obfuscation
 
 # 🧠ATTACK FLOW
-Phishing Email ]
+Phishing Email
 
         ↓
-[ Shortened URL (is.gd) ]
+Shortened URL (is.gd)
 
         ↓
-[ Obfuscated Link (@ Trick) ]
+Obfuscated Link (@ Trick)
 
         ↓
-[ Fake WordPress Login Page ]
+Fake WordPress Login Page
 
         ↓
-[ Credential Input ]
+Credential Input
 
         ↓
-[ ZPhisher Capture Logs ]
+ZPhisher Capture Logs
 
         ↓
-[ Data Exfiltration
+Data Exfiltration
 
