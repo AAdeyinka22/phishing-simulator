@@ -54,9 +54,11 @@ Phishing Email
 | 📧 Email Headers | Forensic investigation      |
 
 
-🧪 ATTACK BREAKDOWN
+### 🧪 ATTACK BREAKDOWN
 ⚙️ 1. Tool Initialization
+
 ZPhisher launched
+
 WordPress phishing template selected
 
 📸 Add image: Page 3
