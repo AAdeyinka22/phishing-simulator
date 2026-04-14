@@ -1,6 +1,6 @@
 # 🎯 Phishing Attack Simulation & Malware Analysis
 
-## 📌PROJECT OVERVIEW
+### 📌PROJECT OVERVIEW
 
 🔍 This project simulates and analyzes a realistic phishing attack campaign, demonstrating how attackers use automation tools and social engineering to compromise user credentials.
 
@@ -11,17 +11,23 @@ Fake login page cloning
 Credential harvesting
 Infrastructure obfuscation
 
-## 🧠ATTACK FLOW
+### 🧠ATTACK FLOW
 Phishing Email
+
         ↓
   Shortened URL
+  
         ↓
-  Obfuscated Link 
+  Obfuscated Link
+  
         ↓
-  Fake WordPress Login Page 
+  Fake WordPress Login Page
+  
         ↓
   Credential Input 
+  
         ↓
-  ZPhisher Capture Logs 
+  ZPhisher Capture Logs
+  
         ↓
   Data Exfiltration 
