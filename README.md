@@ -13,15 +13,21 @@ Infrastructure obfuscation
 
 # 🧠 ATTACK FLOW (VISUAL DIAGRAM)
 [ Phishing Email ]
+
         ↓
 [ Shortened URL (is.gd) ]
+
         ↓
 [ Obfuscated Link (@ Trick) ]
+
         ↓
 [ Fake WordPress Login Page ]
+
         ↓
 [ Credential Input ]
+
         ↓
 [ ZPhisher Capture Logs ]
+
         ↓
 [ Data Exfiltration ]
