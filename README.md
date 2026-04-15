@@ -79,6 +79,8 @@ Shortened link (is.gd)
 
 📸 Add image: Page 10
 
+---
+
 ### 📧 4. Phishing Email
 
 Pretext: Invoice payment request ($2,500)
@@ -87,35 +89,58 @@ Sent via Microsoft 365 (trusted source)
 
 📸 Add image: Page 12–13
 
-🔐 5. Credential Harvesting
+---
+
+### 🔐 5. Credential Harvesting
+
 Fake WordPress login page
+
 Victim enters credentials
 
 📸 Add image: Page 15
 
-📡 6. Data Capture
+---
+
+### 📡 6. Data Capture
+
 Email + password logged
+
 Victim IP recorded
 
 📸 Add image: Page 17 & 21
 
-🔍 KEY FINDINGS
-🚨 Attack Success Factors
+---
+
+### 🔍 KEY FINDINGS
+#### 🚨 Attack Success Factors
+
 Legitimate email infrastructure bypassed filters
+
 Dynamic tunnel evaded URL blocking
+
 Realistic phishing email increased trust
-⚠️ Security Weaknesses
+
+#### ⚠️ Security Weaknesses
 Weak password usage
+
 No MFA enabled
+
 Lack of user awareness
-📊 SECURITY IMPACT (KPI RESULTS)
-Metric	Before	After
-Click Rate	42.8%	7.1%
-Credential Theft	14.3%	0%
-Reporting Rate	3.5%	64.3%
-Detection Time	>4 hrs	<8 mins
+
+---
+
+### 📊 SECURITY IMPACT KPI RESULTS
+| Metric           | Before | After   |
+| ---------------- | ------ | ------- |
+| Click Rate       | 42.8%  | 7.1%    |
+| Credential Theft | 14.3%  | 0%      |
+| Reporting Rate   | 3.5%   | 64.3%   |
+| Detection Time   | >4 hrs | <8 mins |
+
 
 📸 Add image: Page 28
+
+---
 
 🧩 MITRE ATT&CK MAPPING
 Tactic	Technique
