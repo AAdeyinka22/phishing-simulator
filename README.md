@@ -7,9 +7,13 @@
 💡 The attack mimics a WordPress invoice scam, combining:
 
 Phishing email delivery
+
 Fake login page cloning
+
 Credential harvesting
+
 Infrastructure obfuscation
+
 ---
 ### 🧠ATTACK FLOW
 Phishing Email
@@ -142,13 +146,17 @@ Lack of user awareness
 
 ---
 
-🧩 MITRE ATT&CK MAPPING
-Tactic	Technique
-🎯 Initial Access	Phishing (T1566)
-🔐 Credential Access	Credential Harvesting
-🌐 Command & Control	Web Protocols (T1071)
-🕵️ Defense Evasion	Obfuscated Links
-📤 Exfiltration	Data Theft
+### 🧩 MITRE ATT&CK MAPPING
+| Tactic               | Technique             |
+| -------------------- | --------------------- |
+| 🎯 Initial Access    | Phishing (T1566)      |
+| 🔐 Credential Access | Credential Harvesting |
+| 🌐 Command & Control | Web Protocols (T1071) |
+| 🕵️ Defense Evasion  | Obfuscated Links      |
+| 📤 Exfiltration      | Data Theft            |
+
+
+---
 🛡️ DEFENSIVE STRATEGY
 👤 User Protection
 Awareness training
