@@ -47,6 +47,7 @@ Phishing Email
 ✔️ Identify detection gaps
 
 ✔️ Provide defensive strategies
+
 ---
 ### 🛠️ TOOLS & TECHNOLOGIES
 | Tool             | Purpose                     |
