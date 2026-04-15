@@ -15,27 +15,7 @@ Credential harvesting
 Infrastructure obfuscation
 
 ---
-### 🧠ATTACK FLOW
-Phishing Email
 
-        ↓
-  Shortened URL
-  
-        ↓
-  Obfuscated Link
-  
-        ↓
-  Fake WordPress Login Page
-  
-        ↓
-  Credential Input 
-  
-        ↓
-  ZPhisher Capture Logs
-  
-        ↓
-  Data Exfiltration 
----
   ### 🎯 OBJECTIVES
 
 ✔️ Simulate a real-world phishing attack
