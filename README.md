@@ -10,7 +10,7 @@ Phishing email delivery
 Fake login page cloning
 Credential harvesting
 Infrastructure obfuscation
-
+---
 ### 🧠ATTACK FLOW
 Phishing Email
 
@@ -31,8 +31,8 @@ Phishing Email
   
         ↓
   Data Exfiltration 
-
-  🎯 OBJECTIVES
+---
+  ### 🎯 OBJECTIVES
 
 ✔️ Simulate a real-world phishing attack
 
@@ -43,7 +43,7 @@ Phishing Email
 ✔️ Identify detection gaps
 
 ✔️ Provide defensive strategies
-
+---
 ### 🛠️ TOOLS & TECHNOLOGIES
 | Tool             | Purpose                     |
 | ---------------- | --------------------------- |
@@ -53,7 +53,7 @@ Phishing Email
 | 📊 AbuseIPDB     | IP reputation analysis      |
 | 📧 Email Headers | Forensic investigation      |
 
-
+---
 ### 🧪 ATTACK BREAKDOWN
 ⚙️ 1. Tool Initialization
 
@@ -62,7 +62,7 @@ ZPhisher launched
 WordPress phishing template selected
 
 📸 Add image: Page 3
-
+---
 ### 🌐 2. Infrastructure Setup
 
 Local server → 127.0.0.1:8080
@@ -70,7 +70,7 @@ Local server → 127.0.0.1:8080
 Tunnel → .loctx.io
 
 📸 Add image: Page 5–6
-
+---
 ### 🔗 3. URL Obfuscation
 
 Shortened link (is.gd)
