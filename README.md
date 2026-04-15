@@ -63,20 +63,26 @@ WordPress phishing template selected
 
 📸 Add image: Page 3
 
-🌐 2. Infrastructure Setup
+### 🌐 2. Infrastructure Setup
+
 Local server → 127.0.0.1:8080
+
 Tunnel → .loctx.io
 
 📸 Add image: Page 5–6
 
-🔗 3. URL Obfuscation
+### 🔗 3. URL Obfuscation
+
 Shortened link (is.gd)
+
 @ trick used to disguise domain
 
 📸 Add image: Page 10
 
-📧 4. Phishing Email
+### 📧 4. Phishing Email
+
 Pretext: Invoice payment request ($2,500)
+
 Sent via Microsoft 365 (trusted source)
 
 📸 Add image: Page 12–13
