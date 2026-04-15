@@ -158,25 +158,42 @@ Lack of user awareness
 
 
 ---
-🛡️ DEFENSIVE STRATEGY
-👤 User Protection
+### 🛡️ DEFENSIVE STRATEGY
+
+#### 👤 User Protection
+
 Awareness training
+
 Identify suspicious links
-🔐 Identity Security
+
+#### 🔐 Identity Security
+
 Enforce MFA
+
 Strong password policies
-🌐 Network Defense
+
+#### 🌐 Network Defense
+
 Block tunneling domains
+
 Monitor outbound traffic
-📧 Email Security
+
+#### 📧 Email Security
+
 Detect shortened links
+
 Flag invoice-based phishing
-💡 KEY TAKEAWAY
+
+---
+
+### 💡 KEY TAKEAWAY
 
 🚀 This project shows how attackers can combine:
 
 Automation tools
+
 Social engineering
+
 Infrastructure evasion
 
 to execute highly effective phishing campaigns with minimal effort.
