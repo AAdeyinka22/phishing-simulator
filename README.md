@@ -66,7 +66,7 @@ ZPhisher launched
 
 WordPress phishing template selected
 
-📸 Add image: Page 3
+
 ---
 ### 🌐 2. Infrastructure Setup
 
@@ -74,7 +74,7 @@ Local server → 127.0.0.1:8080
 
 Tunnel → .loctx.io
 
-📸 Add image: Page 5–6
+
 ---
 ### 🔗 3. URL Obfuscation
 
@@ -82,7 +82,7 @@ Shortened link (is.gd)
 
 @ trick used to disguise domain
 
-📸 Add image: Page 10
+
 
 ---
 
@@ -102,7 +102,7 @@ Fake WordPress login page
 
 Victim enters credentials
 
-📸 Add image: Page 15
+
 
 ---
 
@@ -112,7 +112,7 @@ Email + password logged
 
 Victim IP recorded
 
-📸 Add image: Page 17 & 21
+
 
 ---
 
@@ -143,7 +143,7 @@ Lack of user awareness
 | Detection Time   | >4 hrs | <8 mins |
 
 
-📸 Add image: Page 28
+
 
 ---
 
